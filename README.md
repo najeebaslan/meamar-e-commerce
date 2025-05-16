@@ -27,74 +27,74 @@ This application is a Construction Tools Marketplace designed to connect users (
 # Application Screens:(Screens 25+)
 <table>
   <tr>
-    <td><img src="screen_shots/onboarding1.png" alt="Image 2"></td>
-    <td><img src="screen_shots/onboarding2.png" alt="Image 2"></td>
-    <td><img src="screen_shots/onboarding3.png" alt="Image 2"></td>
-    <td><img src="screen_shots/signup.png" alt="Image 2"></td>
+    <td><img src="screenshots/onboarding1.png" alt="Image 2"></td>
+    <td><img src="screenshots/onboarding2.png" alt="Image 2"></td>
+    <td><img src="screenshots/onboarding3.png" alt="Image 2"></td>
+    <td><img src="screenshots/signup.png" alt="Image 2"></td>
 
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="screen_shots/for_got_password.png" alt="Image 2"></td>
-    <td><img src="screen_shots/add_image_profile.png" alt="Image 2"></td>
-    <td><img src="screen_shots/choose_account_type.png" alt="Image 2"></td>
-    <td><img src="screen_shots/add_phone_number.png" alt="Image 2"></td>
+    <td><img src="screenshots/for_got_password.png" alt="Image 2"></td>
+    <td><img src="screenshots/add_image_profile.png" alt="Image 2"></td>
+    <td><img src="screenshots/choose_account_type.png" alt="Image 2"></td>
+    <td><img src="screenshots/add_phone_number.png" alt="Image 2"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="screen_shots/chat.png" alt="Image 2"></td>
-    <td><img src="screen_shots/home_bottom.png" alt="Image 2"></td>
-    <td><img src="screen_shots/home_search.png" alt="Image 2"></td>
-    <td><img src="screen_shots/home.png" alt="Image 2"></td>
+    <td><img src="screenshots/chat.png" alt="Image 2"></td>
+    <td><img src="screenshots/home_bottom.png" alt="Image 2"></td>
+    <td><img src="screenshots/home_search.png" alt="Image 2"></td>
+    <td><img src="screenshots/home.png" alt="Image 2"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="screen_shots/tool.png" alt="Image 2"></td>
-    <td><img src="screen_shots/tools_list.png" alt="Image 2"></td>
-    <td><img src="screen_shots/tool_search.png" alt="Image 2"></td>
-    <td><img src="screen_shots/tool_feltter.png" alt="Image 2"></td>
+    <td><img src="screenshots/tool.png" alt="Image 2"></td>
+    <td><img src="screenshots/tools_list.png" alt="Image 2"></td>
+    <td><img src="screenshots/tool_search.png" alt="Image 2"></td>
+    <td><img src="screenshots/tool_feltter.png" alt="Image 2"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="screen_shots/tool_add.png" alt="Image 2"></td>
-    <td><img src="screen_shots/delete-or-edit-tool.png" alt="Image 2"></td>
-    <td><img src="screen_shots/details-tools.png" alt="Image 2"></td>
-    <td><img src="screen_shots/post_view.png" alt="Image 2"></td>
+    <td><img src="screenshots/tool_add.png" alt="Image 2"></td>
+    <td><img src="screenshots/delete-or-edit-tool.png" alt="Image 2"></td>
+    <td><img src="screenshots/details-tools.png" alt="Image 2"></td>
+    <td><img src="screenshots/post_view.png" alt="Image 2"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="screen_shots/post_add.png" alt="Image 2"></td>
-    <td><img src="screen_shots/posts_empty.png" alt="Image 2"></td>
-    <td><img src="screen_shots/post_filter.png" alt="Image 2"></td>
-    <td><img src="screen_shots/post_view.png" alt="Image 2"></td>
+    <td><img src="screenshots/post_add.png" alt="Image 2"></td>
+    <td><img src="screenshots/posts_empty.png" alt="Image 2"></td>
+    <td><img src="screenshots/post_filter.png" alt="Image 2"></td>
+    <td><img src="screenshots/post_view.png" alt="Image 2"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="screen_shots/profile_view.png" alt="Image 2"></td>
-    <td><img src="screen_shots/profile_edit.png" alt="Image 2"></td>
-    <td><img src="screen_shots/show_owner_details.png" alt="Image 2"></td>
-    <td><img src="screen_shots/delete_account.png" alt="Image 2"></td>
+    <td><img src="screenshots/profile_view.png" alt="Image 2"></td>
+    <td><img src="screenshots/profile_edit.png" alt="Image 2"></td>
+    <td><img src="screenshots/show_owner_details.png" alt="Image 2"></td>
+    <td><img src="screenshots/delete_account.png" alt="Image 2"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="screen_shots/dark_home.png" alt="Image 2"></td>
-    <td><img src="screen_shots/dark_tool.png" alt="Image 2"></td>
-    <td><img src="screen_shots/dark_posts.png" alt="Image 2"></td>
-    <td><img src="screen_shots/dark_details_tool.png" alt="Image 2"></td>
+    <td><img src="screenshots/dark_home.png" alt="Image 2"></td>
+    <td><img src="screenshots/dark_tool.png" alt="Image 2"></td>
+    <td><img src="screenshots/dark_posts.png" alt="Image 2"></td>
+    <td><img src="screenshots/dark_details_tool.png" alt="Image 2"></td>
   </tr>
 </table>
 
